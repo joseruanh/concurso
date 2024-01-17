@@ -84,3 +84,8 @@ function lei1()
     
     `
 }
+
+function rel()
+{
+    location.reload()
+}

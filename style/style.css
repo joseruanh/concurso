@@ -12,6 +12,16 @@ header
 
 }
 
+button#rel
+{
+    border: none;
+}
+
+button#rel:hover
+{
+    background-color: transparent;
+}
+
 body
 {
     position: relative;
@@ -82,5 +92,4 @@ iframe
     margin-bottom: 30px;
     border-radius: 15px;
     border: 10px solid rgb(80, 122, 212);
-    box-shadow: inset 1px 10px 10px black;
 }
