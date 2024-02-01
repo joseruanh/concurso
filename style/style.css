@@ -1,4 +1,6 @@
-* {margin: 0; padding: 0;}
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+
+* {margin: 0; padding: 0; font-family: 'Geologica', sans-serif;}
 
 header
 {
@@ -15,6 +17,8 @@ header
 button#rel
 {
     border: none;
+    font-size: 20px;
+    font-weight: bolder;
 }
 
 button#rel:hover
@@ -22,9 +26,19 @@ button#rel:hover
     background-color: transparent;
 }
 
+button#btcontent
+{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
 body
 {
     position: relative;
+}
+
+p{
+    font-weight: bolder;
 }
 
 img#livro
