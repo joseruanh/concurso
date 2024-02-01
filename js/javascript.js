@@ -11,23 +11,23 @@ function content()
             <a href="https://www.gov.br/prf/pt-br/concurso-2021/resolucoes/resolucao-24-1998" target="_blank"> <button class="leis"> Resolução Nº 24/1998 </button> </a> <br><br>
             
             <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-26-de-21-de-maio-de-1998" target="_blank"> <button class="leis">Resolução do Contran Nº 26/1988 </button></a> <br><br>
+
+            <a href="https://www.gov.br/prf/pt-br/concurso-2021/resolucoes/R36-98" target="_blank"> <button class="leis"> Resolução Contran Nº 36/1998 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-108-de-21-de-dezembro-de-1999" target="_blank"> <button class="leis"> Resolução Contran 108/2000 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-110-de-24-de-fevereiro-de-2000" target="_blank"> <button class="leis"> Resolução Contran nº 110/00 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao_contran_242.pdf" target="_blank"> <button class="leis"> Resolução 242/2007 </button></a> <br><br>
+
+            <a href="https://www.gov.br/prf/pt-br/concurso-2021/resolucoes/R432-13" target="_blank"> <button class="leis"> Resolução 432/2013 </button></a> <br><br>
             
-            Resolução Contran Nº 36/1998 <br><br>
-            
-            Resolução Contran 108/2000 <br><br>
-            
-            Resolução Contran nº 110/00 <br><br>
-            
-            Resolução 242/2007 <br><br>
-            
-            Resolução 432/2013 <br><br>
-            
-            Resolução 508/2014 <br><br>
-            
-            Resolução Contran 581/2016 <br><br>
-            
-            Resolução Contran 811/2020 <br><br>
-            
+            <a href="https://www.gov.br/prf/pt-br/concurso-2021/resolucoes/R508-14" target="_blank"> <button class="leis"> Resolução 508/2014 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-581-de-23-de-marco-de-2016" target="_blank"> <button class="leis"> Resolução Contran 581/2016 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8112020.pdf" target="_blank"> <button class="leis"> Resolução Contran 811/2020 </button></a> <br><br>
+                                    
             Resolução Contran 819/2021 <br><br>
             
             Resolução Contran 900/2022 <br><br>
