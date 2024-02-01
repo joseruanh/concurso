@@ -27,6 +27,11 @@ body
     position: relative;
 }
 
+img#livro
+{
+    width: 100px;
+}
+
 div.menu
 {
     width: 90%;
