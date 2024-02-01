@@ -1,5 +1,100 @@
 function content()
 {
+
+    let a = window.document.getElementById('res')
+    a.innerHTML = ` 
+
+
+    <div>
+
+    <button class="conteudoOP" onclick="adm()">
+        Direito Administrativo
+    </button>
+
+    <button class="conteudoOP" onclick="ctb()">
+        Legislação de Trânsito
+    </button>
+
+    <button class="conteudoOP" onclick="con()">
+        Direito Constitucional e Direitos Humanos
+    </button>
+    
+    </div>
+    
+    
+    
+    
+    
+    `
+
+}
+
+function adm()
+{
+    window.alert("Em breve")
+
+    let a = window.document.getElementById('res')
+    a.innerHTML = ` 
+
+
+    <div>
+
+    <button class="conteudoOP" onclick="adm()">
+        Direito Administrativo
+    </button>
+
+    <button class="conteudoOP" onclick="ctb()">
+        Legislação de Trânsito
+    </button>
+
+    <button class="conteudoOP" onclick="con()">
+        Direito Constitucional e Direitos Humanos
+    </button>
+    
+    </div>
+    
+    
+    
+    
+    
+    `
+}
+
+function con()
+{
+
+    window.alert("Em breve")
+
+    let a = window.document.getElementById('res')
+    a.innerHTML = ` 
+
+
+    <div>
+
+    <button class="conteudoOP" onclick="adm()">
+        Direito Administrativo
+    </button>
+
+    <button class="conteudoOP" onclick="ctb()">
+        Legislação de Trânsito
+    </button>
+
+    <button class="conteudoOP" onclick="con()">
+        Direito Constitucional e Direitos Humanos
+    </button>
+    
+    </div>
+    
+    
+    
+    
+    
+    `
+
+}
+
+function ctb()
+{
     let a = window.document.getElementById('res')
     a.innerHTML = `
     
@@ -27,42 +122,46 @@ function content()
             <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-581-de-23-de-marco-de-2016" target="_blank"> <button class="leis"> Resolução Contran 581/2016 </button></a> <br><br>
 
             <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8112020.pdf" target="_blank"> <button class="leis"> Resolução Contran 811/2020 </button></a> <br><br>
-                                    
-            Resolução Contran 819/2021 <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf" target="_blank"> <button class="leis">  Resolução Contran 819/2021 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9002022.pdf" target="_blank"> <button class="leis">  Resolução Contran 900/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9112022.pdf" target="_blank"> <button class="leis">  Resolução Contran 911/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucao-contran-no-914-de-28-de-marco-de-2022" target="_blank"> <button class="leis">  Resolução Contran 914/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9182022.pdf" target="_blank"> <button class="leis">  Resolução Contran 918/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9192022.pdf" target="_blank"> <button class="leis">  Resolução Contran 919/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9302022.pdf" target="_blank"> <button class="leis">  Resolução Contran 930/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9402022.pdf" target="_blank"> <button class="leis">  Resolução Contran 940/2022 </button></a> <br><br>
             
-            Resolução Contran 900/2022 <br><br>
-            
-            Resolução Contran 911/2022 <br><br>
-            
-            Resolução Contran 914/2022 <br><br>
-            
-            Resolução Contran 918/2022 <br><br>
-            
-            Resolução Contran 919/2022 <br><br>
-            
-            Resolução Contran 930/2022 <br><br>
-            
-            Resolução Contran 940/2022 <br><br>
-            
-            Resolução Contran 955/2022 <br><br>
-            
-            Resolução Contran 958/2022 <br><br>
-            
-            Resolução Contran 965/2022 <br><br>
-            
-            Resolução Contran 967/2022 <br><br>
-            
-            Resolução Contran 969/2022 <br><br>
-            
-            Resolução Contran 976/2022 <br><br>
-            
-            Resolução Contran 985/2022 <br><br>
-            
-            Resolução Contran 991/2023 <br><br>
-            
-            Resolução Contran 993/2023 <br><br>
-            
-            Resolução Contran 996/2023 <br><br>
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9552022.pdf" target="_blank"> <button class="leis">  Resolução Contran 955/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9582022.pdf" target="_blank"> <button class="leis">  Resolução Contran 958/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9582022.pdf" target="_blank"> <button class="leis">  Resolução Contran 958/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9652022.pdf" target="_blank"> <button class="leis">  Resolução Contran 965/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9672022.pdf" target="_blank"> <button class="leis">  Resolução Contran 967/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao9692022.pdf" target="_blank"> <button class="leis">  Resolução Contran 969/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9762022n.pdf" target="_blank"> <button class="leis">  Resolução Contran 976/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9852022.pdf" target="_blank"> <button class="leis">  Resolução Contran 985/2022 </button></a> <br><br>
+
+            <a href="https://www.legisweb.com.br/legislacao/?id=444577" target="_blank"> <button class="leis">  Resolução Contran 991/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9932023.pdf" target="_blank"> <button class="leis">  Resolução Contran 993/2022 </button></a> <br><br>
+
+            <a href="https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9962023.pdf" target="_blank"> <button class="leis">  Resolução Contran 996/2022 </button></a> <br><br>
+                                               
+            <br><br><br><br><br><br><br><br><br><br>
             
             </p>
 
