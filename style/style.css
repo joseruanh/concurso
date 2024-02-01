@@ -17,6 +17,7 @@ header
 button.conteudoOP
 {
     background-color: rgb(46, 46, 180);
+    transition: 0.2s;
 }
 
 button.conteudoOP:hover
