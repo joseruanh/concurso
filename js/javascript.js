@@ -31,11 +31,8 @@ function content()
 
 function adm()
 {
-    window.alert("Em breve")
-
     let a = window.document.getElementById('res')
     a.innerHTML = ` 
-
 
     <div>
 
@@ -50,6 +47,24 @@ function adm()
     <button class="conteudoOP" onclick="con()">
         Direito Constitucional e Direitos Humanos
     </button>
+    
+    </div> <br><br><br><br>
+
+
+    <div>
+
+    <p>
+    NOÇÕES DE DIREITO ADMINISTRATIVO: <br><br>
+
+    1. Estado, Governo e Administração Pública: conceitos, elementos, poderes, natureza, fins e princípios. <br><br>
+
+    2. Direito Administrativo: conceito, fontes e princípios. <br><br>
+    
+    3. Ato Administrativo: <br> 
+    3.1. Conceito, requisitos, atributos, classificação e espécies; <br>
+    3.2. Invalidação, anulação e revogação; <br>
+    3.3. Prescrição. 
+    </p>
     
     </div>
     
@@ -63,11 +78,9 @@ function adm()
 function con()
 {
 
-    window.alert("Em breve")
 
     let a = window.document.getElementById('res')
     a.innerHTML = ` 
-
 
     <div>
 
@@ -82,6 +95,34 @@ function con()
     <button class="conteudoOP" onclick="con()">
         Direito Constitucional e Direitos Humanos
     </button>
+    
+    </div> <br><br><br>
+
+
+    <div>
+
+    <p>
+    
+    <br>
+    NOÇÕES DE DIREITO CONSTITUCIONAL E DE DIREITOS HUMANOS:
+    <br><br>
+    1. Dos Princípios Fundamentais (Art. 1º ao 4º da <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" target="_blank"> CRFB/88 </a>). <br><br>
+    
+    2. Dos Direitos e Garantias Fundamentais (Art. 5º ao 11 da <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" target="_blank"> CRFB/88 </a>). <br><br>
+    
+    3. Dos Direitos Políticos (Art. 14 ao 16 da <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" target="_blank"> CRFB/88 </a>). <br><br>
+    
+    3. Da Organização do Estado (Art. 18 a 31; Art. 37a 41 da <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" target="_blank"> CRFB/88 </a>). <br><br>
+    
+    4. Da Segurança Pública (Art. 144 da <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" target="_blank"> CRFB/88 </a>). <br><br>
+    
+    5. Da Política Urbana (Art. 182 e 183 da <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" target="_blank"> CRFB/88 </a>).<br><br>
+
+    6. Da Família, da Criança, do Adolescente, do Jovem e do Idoso (Art. 226 ao 230 da <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm" target="_blank"> CRFB/88 </a>). <br><br>
+    
+    7. Direitos Humanos: conceito, características, categorias e gerações. <br><br>
+
+    </p>
     
     </div>
     
@@ -97,6 +138,22 @@ function ctb()
 {
     let a = window.document.getElementById('res')
     a.innerHTML = `
+
+    <div>
+
+    <button class="conteudoOP" onclick="adm()">
+        Direito Administrativo
+    </button>
+
+    <button class="conteudoOP" onclick="ctb()">
+        Legislação de Trânsito
+    </button>
+
+    <button class="conteudoOP" onclick="con()">
+        Direito Constitucional e Direitos Humanos
+    </button>
+    
+    </div> <br><br><br><br><br>
     
     <div>
     
